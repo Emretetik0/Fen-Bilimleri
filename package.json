@@ -1,11 +1,12 @@
 {
   "name": "fen-bilimleri",
-  "homepage": "https://Emretetik0.github.io/Fen-Bilimleri",
+  "homepage": "https://Emretetik0.github.io/Fen-Bilimleri/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "start": "react-scripts start",
+     "dev": "vite",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
